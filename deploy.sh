@@ -6,5 +6,5 @@ set -e
 
 git init
 git add *
-git commit -m 'deploy'
+git commit -m 'first commit'
 git push -f git@github.com:minuet-red/blog.git main
