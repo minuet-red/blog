@@ -1,0 +1,19 @@
+{
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "dependencies": {
+    "js-yaml": "^3.14.0",
+    "vuepress-plugin-auto-sidebar": "^2.3.2",
+    "vuepress-plugin-boxx": "^0.0.7",
+    "vuepress-plugin-container": "^2.1.5",
+    "vuepress-plugin-copyright": "^1.0.2",
+    "vuepress-plugin-nprogress": "^1.1.8",
+    "vuepress-plugin-smooth-scroll": "^0.0.10"
+  },
+  "devDependencies": {
+    "vuepress": "^1.9.7",
+    "vuepress-theme-reco": "^1.6.14"
+  }
+}
