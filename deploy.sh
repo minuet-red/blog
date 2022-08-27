@@ -7,4 +7,5 @@ set -e
 git init
 git add *
 git commit -m 'first commit'
+git branch -M main
 git push -f git@github.com:minuet-red/blog.git main
